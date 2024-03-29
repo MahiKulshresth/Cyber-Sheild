@@ -6,8 +6,3 @@ Develop any web / app based interface aiming to detect and prevent cyber attacks
 
 ## Overview of the Solution
 Introducing "Cyber Shield" — a powerful Chrome extension designed to enhance online security. With real-time pop-up alerts, it warns users about spam emails, generates strong and unique passwords, identifies unsafe URLs, and detects potential ransomware threats. Your all-in-one solution for safer browsing.
-
-## Contributors
-<a href="https://github.com/MahiKulshresth">Mahi Kulshresth</a>
-<a href="https://github.com/sarvi18">Sarvi Agarwal</a>
-<a href="https://github.com/tvisha03">Tvisha Khanna</a>
